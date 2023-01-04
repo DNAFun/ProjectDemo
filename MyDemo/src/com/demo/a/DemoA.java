@@ -6,6 +6,7 @@ public class DemoA {
 	}
 	
 	class DemoInnerA{
-		
+		String name;
+		String age;
 	}
 }
