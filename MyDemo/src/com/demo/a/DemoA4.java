@@ -9,4 +9,8 @@ public class DemoA4 {
 		String name;
 		String age;
 	}
+	
+	class DemoInnerB{
+		
+	}
 }
