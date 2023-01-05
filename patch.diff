@@ -1,0 +1,28 @@
+From 159daac11e83b47656dba426a4aa925cfc86751e Mon Sep 17 00:00:00 2001
+From: DNAFun <1925568392@qq.com>
+Date: Thu, 5 Jan 2023 14:38:15 +0800
+Subject: [PATCH] =?UTF-8?q?=E7=89=B9=E6=96=B01=20bug=E4=BF=AE=E5=A4=8D=20S?=
+ =?UTF-8?q?igned-off-by:=20DNAFun=20<1925568392@qq.com>?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ MyDemo/src/feature1/Demo2.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/MyDemo/src/feature1/Demo2.java b/MyDemo/src/feature1/Demo2.java
+index 3262671..5ce870c 100644
+--- a/MyDemo/src/feature1/Demo2.java
++++ b/MyDemo/src/feature1/Demo2.java
+@@ -1,6 +1,6 @@
+ package feature1;
+ 
+-public class Demo1 {
++public class Demo2 {
+ 	public static void main(String[] args) {
+ 		System.out.println("123");
+ 		System.out.println("123");
+-- 
+2.33.0.windows.2
+
